@@ -1,2 +1,3 @@
 # hello-world
-hello, I learn Git-Hub
+
+I want to learn the different part in git-hub. :) So let's go 
